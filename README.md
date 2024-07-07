@@ -10,7 +10,6 @@
 - 📫 How to reach me = victorkibet2012@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i like learning and coding
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <!---
 kibet06/kibet06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
